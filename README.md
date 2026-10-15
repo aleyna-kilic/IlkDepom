@@ -14,3 +14,9 @@ Bu depoyu, Git ve GitHub temellerini sıfırdan adım adım öğrenirken pratik 
 
 \- Branch ve Pull Request mantığını uygulayarak görmek
 
+
+
+\## 📝 Notlar
+
+\- İlk repomu başarıyla GitHub'a gönderdim.
+
